@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋, I'm Sushmitha B
+
+🎓 CSE Student | 💻 Aspiring Software Developer  
+🚀 Interested in Java Development, Web Development & DSA
 
 <!--
 **SushmithaB-06/SushmithaB-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
